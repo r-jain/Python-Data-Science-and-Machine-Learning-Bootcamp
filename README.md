@@ -2,21 +2,29 @@
 
 ## Synopsis
 
-This project contains implementations for Python-Data-Science-and-Machine-Learning-Bootcamp at Udemy - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content
+This project contains implementations for Python-Data-Science-and-Machine-Learning-Bootcamp at Udemy - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 All the implementations are in Python -
+
+## Implementations - 
+Each section has a reference project by instructor along with a project exercise. Project exercise solution templates are also provided by instructor. Following implementations are covered.
 
 `NumPy` 
 `Pandas` 
 `Matplotlib` 
 `Seaborn` 
 `Plotly` 
-`cufflinks` 
+`cufflinks`
+
+- NumPy for Numerical Data
+- Pandas for Data Analysis
+- Matplotlib for Python Plotting
+- Seaborn for statistical plots
+- Plotly for interactive dynamic visualizations
+
 `Scikit-Learn` 
 `Spark` 
 `Tensorflow` 
 `ContribLearn`
-
-## Implementations - Each section has a refrence project by instructor along with a project exercise. Project exercise solution templates are also provided by instructor. Following implementations are covered.
 
 - Logistic Regression
 - K Nearest Neighbours
