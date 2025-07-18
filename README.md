@@ -2,8 +2,7 @@
 
 ## Synopsis
 
-This project contains implementations for Python-Data-Science-and-Machine-Learning-Bootcamp at Udemy - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
-All the implementations are in Python -
+This project contains implementations for [Python-Data-Science-and-Machine-Learning-Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) at Udemy
 
 ## Implementations - 
 Each section has a reference project by instructor along with a project exercise. Project exercise solution templates are also provided by instructor. Following implementations are covered.
